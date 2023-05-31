@@ -59,6 +59,11 @@ r2
 
 dt.predict([[5,6]])`
 
+
+
+
+
+
 ## Output:
 1.data.head()
 
